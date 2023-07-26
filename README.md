@@ -1,2 +1,2 @@
 # BwDLitTodo
-Lit Element - Todo Project
+Todo Project (Lit - TypeScript - TailwindCss)
